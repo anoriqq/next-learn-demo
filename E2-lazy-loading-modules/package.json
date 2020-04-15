@@ -12,10 +12,10 @@
   "license": "ISC",
   "dependencies": {
     "@next/bundle-analyzer": "latest",
-    "cross-env": "^5.2.0",
-    "firebase": "^7.6.2",
+    "cross-env": "5.2.1",
+    "firebase": "7.14.0",
     "next": "latest",
-    "react": "^16.12.0",
-    "react-dom": "^16.12.0"
+    "react": "16.13.1",
+    "react-dom": "16.13.1"
   }
 }
